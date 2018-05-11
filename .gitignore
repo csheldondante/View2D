@@ -1,3 +1,4 @@
-*
-!*.cs
-!*.gitignore
+#**
+#!**.*
+#!*.cs
+#!*.gitignore
