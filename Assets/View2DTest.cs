@@ -7,7 +7,7 @@ public class View2DTest : MonoBehaviour {
 	public View2dMain _view2D;
 	public List<View2dMain.ItemIndex> movableItems = new List<View2dMain.ItemIndex>(); 
 
-	private int _size = 21;
+	private int _size = 20;
 
 
 	// Use this for initialization
